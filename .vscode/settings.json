@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "io.h": "c",
+        "oledpins.h": "c",
+        "spi.h": "c",
+        "oled.h": "c",
+        "numeric": "c",
+        "delay.h": "c"
+    }
+}
